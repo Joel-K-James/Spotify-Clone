@@ -3,7 +3,7 @@ Welcome to the Spotify Clone repository! This project is a clone of the popular 
 Installation
 Follow these steps to get the project up and running on your local machine:
 
-1.Clone this repository: git clone https://github.com/your-username/spotify-clone.git
+1.Clone this repository: git clone https://github.com/Joel-K-James/Spotify-Clone.git
 
 2.Navigate to the project directory: cd spotify-clone
 
